@@ -8,7 +8,7 @@ OpenFrameworks project and compiled application for final experiment / implement
 - How can we create universally accessible computer-human interactions?
 
 
-In an installation context, multiple inputs and outputs could be daisy-chained together to create a "Chinese whispers" game scenario where each individual is responsible for communication across the entire group. This interaction would put pressure on those individuals with higher-pitched voices to perform a masculine voice.
+In an installation context, multiple inputs and outputs could be daisy-chained together to create a "Telephone" game scenario where each individual is responsible for communication across the entire group. This interaction would put pressure on those individuals with higher-pitched voices to perform a masculine voice.
 
 
 Libraries:
