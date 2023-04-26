@@ -1,4 +1,5 @@
-# creative-computing-project-22.23, Skye Platts 33775116
+# creative-computing-project-22.23
+### Skye Platts 33775116
 
 ## Experiments and materials found on their respective branches
 ## - phase-vocoder-experiments
