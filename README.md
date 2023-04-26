@@ -5,3 +5,5 @@ OpenFrameworks project and compiled application for final experiment / implement
 - What privelliges do different voices afford?
 - How will computer intelligence understand complexities in humanity beyond discreet labels?
 - How can we create universally accessible computer-human interactions?
+
+Through observation of many users interactions with the effect, a common theme of gender performance emerges.
